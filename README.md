@@ -1,4 +1,6 @@
-# pcat: fast threaded data flow statistics generator for piped data
+# pcat
+
+Fast threaded data flow statistics generator for piped data.
 
 Similar projects:
 - (bar/Command Line Progress Bar)[http://clpbar.sf.net]
