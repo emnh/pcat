@@ -3,12 +3,12 @@
 Fast threaded data flow statistics generator for piped data.
 
 - Author: Eivind Magnus Hvidevold
-- Credits: (Tor Hveem)[https://github.com/torhve/], formatting suggestions
+- Credits: [Tor Hveem](https://github.com/torhve/), formatting suggestions
 - License: GPL v2
 
 Similar projects:
-- (bar/Command Line Progress Bar)[http://clpbar.sf.net]
-- (bfr/buffer)[http://www.glines.org:8000/software/buffer.html]
+- [bar/Command Line Progress Bar](http://clpbar.sf.net)
+- [bfr/buffer](https://github.com/wendal/bfr)
 
 # Compile
 
