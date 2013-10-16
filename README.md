@@ -6,9 +6,9 @@ Similar projects:
 - (bar/Command Line Progress Bar)[http://clpbar.sf.net]
 - (bfr/buffer)[http://www.glines.org:8000/software/buffer.html]
 
-Author: Eivind Magnus Hvidevold
-Credits: Tor Hveem, formatting suggestions
-License: GPL v2
+- Author: Eivind Magnus Hvidevold
+- Credits: (Tor Hveem)[https://github.com/torhve/], formatting suggestions
+- License: GPL v2
 
 # Compile
 
@@ -19,11 +19,11 @@ License: GPL v2
 
 # Examples
 
-emh@ubuntu ~/Dropbox/homedir-alexis/devel/pcat % cat /dev/urandom | ./pcat > /dev/null
-^Ccc: 183.8 MiB/s    0:13   Cur:  15.9 MiB/s   Avg:  14.1 MiB/s     
+    emh@ubuntu ~/Dropbox/homedir-alexis/devel/pcat % cat /dev/urandom | ./pcat > /dev/null
+    ^Ccc: 183.8 MiB/s    0:13   Cur:  15.9 MiB/s   Avg:  14.1 MiB/s     
 
-emh@ubuntu ~/Dropbox/homedir-alexis/devel/pcat % cat /dev/zero | ./pcat > /dev/null 
-^Ccc:   7.3 GiB/s    0:07   Cur:   1.4 GiB/s   Avg:   1.0 GiB/s     
+    emh@ubuntu ~/Dropbox/homedir-alexis/devel/pcat % cat /dev/zero | ./pcat > /dev/null 
+    ^Ccc:   7.3 GiB/s    0:07   Cur:   1.4 GiB/s   Avg:   1.0 GiB/s     
 
 # Cleanup
 
